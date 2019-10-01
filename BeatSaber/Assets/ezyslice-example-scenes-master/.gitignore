@@ -1,0 +1,16 @@
+EzySlice-Examples/Library/
+EzySlice-Examples/Temp/
+
+*.csproj
+
+*.sln
+
+*.userprefs
+
+\.DS_Store
+
+EzySlice-Examples/obj/Debug/
+
+EzySlice-Examples/Logs/
+
+EzySlice-Examples/\.vscode/
